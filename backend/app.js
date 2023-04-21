@@ -15,5 +15,5 @@ app.use('/api', apiRouter);
 app.use('/auth', authRouter);
 
 app.listen(PORT, () => {
-  console.log(`Шуршим на ${PORT} порту`);
+  console.log(`Шуршим на ${PORT} порту hjkl;kjhgfxghjkljhgfxdfghjkhg`);
 });
